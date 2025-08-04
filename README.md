@@ -1,4 +1,3 @@
-![23e7d553-7fba-41bb-ac45-3bdf1c5d673d](https://github.com/user-attachments/assets/179bae98-74c6-48b8-bb3b-4871e3a0766d)
 # 🎴 Flipping Card UI Design
 
 A stylish and responsive **Flipping Card UI** built using only **HTML** and **CSS**.  
